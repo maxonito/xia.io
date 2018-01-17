@@ -1,0 +1,388 @@
+@media (max-width:1000px){.top-header ul{margin-top:10px;}
+.introduction .h1{font-weight:lighter;}
+.media-mobile{width:100px;height:100px;}
+.home{height:810px;}
+.header{height:100px;}
+.get_call{width:247px;height:55px;line-height:55px;}
+.xiaomi{margin-left:59px;margin-top:22px;float:none;width:64px;height:64px;}
+.phone{margin-right:0;text-decoration:none;font-size:29px;font-family:"Proxima B";display:block;height:80px;line-height:80px;margin-bottom:-7px;}
+.right-call{padding-right:25px;}
+.get_call{font-size:22px;}
+.LED ul div{width:118px;height:100px;margin-bottom:15px;}
+.LED ul{width:725px;}
+.LED ul li{width:118px;text-align:center;margin-right:84px;}
+section{min-width:1000px;overflow:hidden;}
+.drugoe{padding-bottom:20px;}
+.home{position:relative;padding-bottom:200px;overflow:visible;}
+.introduction{height: 2480px;margin-top:17px;background: url(../img/q/inst-mob.png) no-repeat center top;padding-top: 567px;}
+.wrapper-header{max-width:1000px;min-width:1000px;}
+.padding{padding-left:40px;padding-right:40px;}
+.bot-header{padding:0 0 0 56px;}
+.bot-header ul:after{
+    content: '';
+    display: table;
+    clear: both;
+    }
+.home-scuter{width: 438px;
+height: 911px;
+right: 58px;
+z-index: 4;
+top: -28px;
+background-image: url('../img/q/home-scuter-mob.png');
+}
+.price{font-size:63px;}
+.home-buy{font-size:34px;width:328px;height:82px;font-family:"Proxima B";line-height:82px;margin-top: 42px;}
+.introduction-desk  .home-buy{
+    margin-top: 19px;
+}
+
+.introduction-desk .home-border .price {
+    padding-top: 14px;
+
+}
+.img-scuter-color{width: 475px;
+position: absolute;
+top: 460px;
+left: 13px;
+height: 527px;}
+.scuter-color .color{width:50px;height:50px;margin-right:20px;}
+.scuter-color span{line-height:50px;}
+.media_width_1000{display:block;}
+.manual{width:935px;margin:0 auto;margin-top:60px;}
+.fast-walks-deck{width:527px;}
+.fast-walks .fast-walks-deck{width:514px;}
+.fast-walks-deck p{width:460px;}
+.fast-walks{height:506px;}
+.fast-wrap{padding-top:65px;}
+.fast-walks-deck .h1{margin-top:0;}
+.media-wrapper{left:-75px;background-size:1320px 100%;}
+.test .send{margin-top:59px;}
+.battary ..h1,.battary p{margin-left:30px;}
+.battary-bg{right:-102px;top:-169px;height:573px;width:102%;}
+.zach .test-drive-free{padding:0 40px 20px 35px;width:850px;height:450px;color:#323940;margin-left:50px;}
+.zach{
+    background: url('../img/q/zach-mob.png') no-repeat center top;
+    background-size: 1919px 112%;
+background-position: center -87px;
+}
+.zach .send{margin-top:39px;}
+.fast-walks-deck .h1{font-size:50px !important;}
+.disk .fast-walks-deck .h1{font-size:45px !important;width: 470px;}
+.disk li{margin-right:6px;}
+.disk .fast-walks-deck{width:630px;padding-left:50px;}
+.disk{background-size: 2160px 100%;}
+.blackTeh{padding:0px 0 5px 0;}
+.garanty{padding-top:189px;}
+.garanty-bg{right:-129px;top:-203px;width:63%;height:129%;background-size:100%;}
+.security{background:#000;}
+.security .test-drive-free{margin-right:40px;}
+.security-bg1{left:-62%;}
+.mobilnost-bg{left:-40px;}
+.drugoe .container{width: 950px;margin:0 auto;margin-top:0px;margin-top:130px;}
+.garanty .fast-walks-deck{width:525px;}
+.video-bg{height:99%;}
+.pause-bg{height:99%;}
+.disk .fast-walks-deck p{width:478px;}
+.garanty .h1{margin-left:0;font-weight:lighter;}
+.garanty p{margin-left:0;}
+.garanty{height:580px;}
+.light-size{width:100px;height:100px;}
+.modal_content_box p{width:600px;margin:0 auto;font-size:21px;}
+.modal_content_box .h1{font-size:50px !important;}
+.modal_contact .sends{width:423px;height:103px;font-size:29px;margin-top:68px;}
+.modal_contact input{width:423px;font-size:21px;}
+.input-mask{margin-top:25px !important;}
+.modal_contact input[name=name]{margin-top:30px !important;}
+.not-mobile{display:none;}
+.top-header ul{float:none;}
+.top-header{padding-left:42px;height:40px;margin-top:-7px;}
+.top-header li a{font-size:22px;height:55px;line-height:55px;}
+.right-call{margin-top:-114px;}
+.zach .sends{margin-top:45px;}
+.disk-bg{left:-80px;background-size:2200px 100%;}
+.portativ{height:675px;background-position: 33%;}
+.portativ .h1{width:auto;padding-top:54px;margin-left:289px;}
+.fast-walks .fast-wrap{padding-top:63px;}
+.media-wrapper{height:108%;left:-9px;background:url('../img/walk-mob.png') no-repeat center center;background-size:auto auto;background-size:985px 606px;}
+.fast-walks .fast-walks-deck .h1{font-weight:lighter;}
+.settings_span span{width:110px;display:block;margin-left:-5px;}
+.zach .test-drive-free .h1{font-weight:lighter;}
+.donwload .zach-bg{right:32px;top:92px;}
+.security .h1{font-weight:lighter;}
+.staty{margin-top:36px;}
+.h1{
+  font-weight: lighter !important;
+}
+.top-header li {
+    padding-left: 33px;
+}
+.top-header li:first-child {
+    padding-left: 21px;
+}
+#times .modal_content_box p {
+    width: auto;
+}
+#times  .modal_contact input{
+  margin-top: 0px !important;
+}
+
+.time-pop-up .modal_contact .sends{
+  margin-top: 15px;
+  } 
+.home .home-border {
+    border:none;
+    width: auto;
+    height: 142px;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 19px;
+}
+.home .home-left {
+    width:auto;
+}
+.home .home-right {
+    float: none;
+    width: 330px;
+    margin-right: 0;
+}
+.home .home-right img{
+    float: right;
+    width: 200px;
+    margin-right: -124px;
+    margin-top: -17px;
+}
+.home .protect-text {
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+    padding-left: 89px;
+    margin-left: 0;
+    width: 250px;
+    padding-top: 259px;
+    font-size: 17px;
+}
+.introduction .download-link-center{
+   bottom: -34px;
+   left: 22%;
+}
+.introduction  .download-link{
+    width: auto;
+}
+.introduction .img-pdf {
+    width: 43px;
+    height: 46px;
+}
+
+.introduction  .download-link span {
+    font-size: 22px;
+}
+.introduction-desk{
+    width: auto;
+}
+.mob-desk-right{
+    width: 533px;
+    float: right;
+}
+.introduction .home-border {
+   float: left;
+   width: 100%;
+   width: 762px;
+   height: 187px;
+   margin-top: 52px;
+   margin-left: 33px;
+   margin-bottom: 12px;
+}
+.introduction .home-left {
+    width:auto;
+}
+.introduction .home-right {
+    width: 330px;
+    margin-right: 0;
+}
+.introduction .home-right img{
+    float: right;
+    margin-right: 52px;
+    width: 300px;
+    margin-top: -8px;
+
+}
+
+
+.introduction .protect-text {
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+    padding-left: 0;
+    margin-left: 43px;
+    width: 225px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.download .download-border{
+  width: 922px;
+  height: 328px;
+}
+.img-instruct {
+    width: 370px;
+}
+.img-instruct img {
+    left: -115px;
+}
+.peredach{
+    padding-left: 50px;
+}
+.rul{
+width: 1470px;
+height: 834px;
+top: 51px;
+}
+.rul-opis {
+    position: absolute;
+    left: auto;
+    transform: none;
+    width: 900px;
+    top: 213px;
+    }
+    .rul-opis-1 {
+    left: 10px;
+    top: 174px;
+    width: 266px;
+    text-align: right !important;
+}
+.rul-opis-4 {
+    left: 5px;
+    top: 284px;
+}
+.rul-opis-6 {
+    top: 467px;
+    left: 33%;
+}
+.rul-opis-2 {
+    left: 88%;
+    top: 168px;
+}
+.rul-opis-3 {
+    top: 227px;
+}
+.rul-opis-5 {
+    top: 320px;
+    left: 81%;
+    }
+.comp {
+    height: 834px;
+}
+.reg-ul li span{
+    font-size: 14px;
+}
+.reg-ul li .h{
+    font-size: 20px;
+    }
+
+.donwload .test-drive-free {
+    width: 918px;
+    margin: 0 auto;
+}
+
+    .motot-mob{
+        margin-left: -128px;
+    }
+    .motor-opis {
+    left: auto;
+    transform:none;
+    width: 1118px;
+}
+.portativ p, .portativ .h1{
+    margin-left: 52px;
+width: 462px;
+}
+    
+.home .through {
+    margin-bottom: 12px !important;
+}
+.introduction .h1{
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 22px;
+    margin-top: .67em;
+}
+.introduction-desk .class-product {
+    padding-top: 53px;
+
+}
+.scuter-color {
+    margin: 16px 0 10px 0;
+    float: left;
+
+}
+.peredach {
+    height: 870px;
+    background: url('../img/q/peredach-head-mob.png') no-repeat center center;
+    background-size: 1020px 100%;
+    margin-top: 29px;
+    }
+.peredach.led-mob{
+    background: url('../img/q/peredach-mob.png') no-repeat center center;
+    background-size: 100% 100%;
+}
+.sclad {
+    position: absolute;
+    top: 34px;
+    left: -30.5%;
+    z-index: -1;
+     width: 1621px;
+}
+.compact {
+    padding-top: 93px;
+    height: 840px;
+}
+.comp-right{
+    padding-left: 50px;
+    width: 760px;
+}
+.splav{
+    padding-left: 50px;
+}
+.mob-br{
+    display: block;
+}
+.splav .h1{
+width: 543px;
+}
+.splav p {
+    width: 486px;
+}
+.bg-splav {
+    right: -46.6%;
+}
+.splav {
+    height: 750px;
+    }
+    .donwload {
+    background-image: url(../img/q/gift-mob.png);
+}
+.system_save {
+    background: url(../img/q/system_save.png) no-repeat center center;
+    width: 664px;
+    height: 731px;
+    position: absolute;
+    left: -23.5%;
+    top: -125px;
+    z-index: -1;
+    background-size: 100%;
+}
+.portativ {
+    height: 617px;
+    }
+.portativ .h1 {
+    padding-top: 116px;
+}
+.name-product{
+    font-weight: lighter; 
+}
+.staty2 li:last-child {
+    margin-left: -15px;
+    }
+}

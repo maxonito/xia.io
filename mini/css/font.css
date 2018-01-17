@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Proxima R"; 
+    src: url('font/Proxima Nova Regular.otf'); 
+}
+@font-face {
+    font-family: "Proxima RI"; 
+    src: url('font/Proxima Nova Regular Italic.otf'); 
+}
+@font-face {
+    font-family: "Proxima B"; 
+    src: url('font/Proxima Nova Bold.otf'); 
+}
+@font-face {
+    font-family: "Proxima L"; 
+    src: url('font/Proxima Nova Light.otf'); 
+}
+@font-face {
+    font-family: "Proxima T"; 
+    src: url('font/Proxima Nova Thin.otf'); 
+}

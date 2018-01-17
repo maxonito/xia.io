@@ -1,0 +1,412 @@
+@media (max-width:1000px){
+  .top-header ul{
+  margin-top: 10px;
+}
+  .media-mobile{
+    width: 100px;
+    height: 100px;
+  }
+  .header {
+    height: 100px;
+  }
+  .get_call {
+    width: 247px;
+    height: 55px;
+    line-height: 55px;
+  }
+
+  .logo{
+   margin-left: 59px;
+   width: 200px;
+   margin-top: 22px;
+   float: none;
+   height:64px;
+ }
+ .phone {
+  margin-right: 0;
+  text-decoration: none;
+  color: #009EFF;
+  font-size: 29px;
+  font-family: "Proxima B";
+  display: block;
+  height: 80px;
+  line-height: 80px;
+  margin-bottom: -7px;
+
+}
+.right-call{
+	padding-right: 25px;
+}
+.get_call{
+	font-size: 22px;
+}
+
+.LED ul div{width:100px;height:100px;}
+.LED ul{width:725px;}
+.LED ul li{width:100px;text-align:center;margin-right:107px;}
+section{min-width:1000px;overflow:hidden;}
+.drugoe{padding-bottom:20px;}
+.home{position:relative;padding-bottom:200px;}
+.introduction{margin-top: 17px;}
+.wrapper-header{max-width:1000px;min-width:1000px;}
+.padding{padding-left:40px;padding-right:40px;}
+.h1:not(.name-product){font-size:45px !important;}
+
+.bot-header{padding: 0px 0 0 56px;}
+.home-scuter{   
+    width: 564px;
+    height: 912px;
+    right: 59px;
+  top: -37px;
+    background: url(../img/home-scuter-mob.png) no-repeat center center;
+    background-size: auto auto;
+    background-size: 100%;
+}
+.price{font-size:63px;}
+.home-buy{font-size:34px;width:328px;height:82px;font-family:"Proxima B";line-height:82px;}
+.img-scuter-color{top: 41px;
+left: 11px;
+width: 432px;
+}
+.img-scuter-color-black{
+  left: 27px;
+  width: 400px;
+}
+.scuter-color .color{width:50px;height:50px;margin-right:20px;}
+.scuter-color span{line-height:50px;}
+.media_width_1000{display:block;}
+.manual{width:935px;margin:0 auto;margin-top:60px;}
+.fast-walks-deck{width:527px;}
+.fast-walks-deck p{line-height:1.4;width:460px;}
+.fast-walks{height:500px;}
+.fast-wrap{padding-top:65px;}
+.fast-walks-deck .h1{margin-top:0;font-weight: lighter;}
+.media-wrapper{left:-75px;background-size:1320px 100%;}
+.test .send{margin-top:59px;}
+.test{background:url(../img/test-bg-mobile.png) no-repeat center center;padding-top: 51px;height: 570px;  background-size: 100% 100%;}
+.battary .h1{margin-top:0;margin-left:30px;font-weight: lighter;}
+.battary p{margin-left:30px;}
+.battary-bg{right: -93px;
+  top: -180px;
+  height: 573px;
+  width: 100%;
+  background-size: 100%;
+}
+.battary{
+  height: 680px;
+  padding-top: 208px;
+}
+.zach .test-drive-free{border:5px solid #009eff;padding:20px 40px 20px 40px;width:929px;height:445px;color:#323940;margin:0 auto;}
+.zach-bg{right:-265px;}
+.zach .send{margin-top:39px;}
+.fast-walks-deck .h1{font-size:50px !important;font-weight: lighter;}
+.disk li{margin-right:12px;}
+.disk .fast-walks-deck{width:630px; padding-top: 188px;}
+.disk{
+  background-size:100%;
+  background-image: url(../img/electro-mob.png);
+  background-position: bottom;
+}
+.blackTeh{padding:0px 0 5px 0;}
+.garanty{padding-top:210px;}
+.garanty-bg{left:-205px;top:-186px;width:65%;height:129%;background-size:100%;}
+.security{background:#000;}
+.security .test-drive-free{margin-right:40px;}
+.security-bg1{left:-62%;}
+.mobilnost-bg{left:-40px;}
+.drugoe .container{width: 950px;margin:0 auto;margin-top:0px;margin-top:130px;}
+.garanty .fast-walks-deck{width:525px;}
+.video-bg{height:99%;}
+.pause-bg{height:99%;}
+.disk .fast-walks-deck p{width:540px;}
+.garanty .h1{margin-left:0;}
+.garanty p{margin-left:0;}
+.garanty{width:573px;}
+.light-size{
+	width: 100px;
+	height: 100px;
+}
+.modal_content_box p{
+	width: 600px;
+  margin: 0 auto;
+  font-size: 21px;
+}
+.modal_content_box .h1{
+	font-size: 50px !important;
+}
+.modal_contact .sends{
+  width: 423px;
+  height: 103px;
+  font-size: 29px;
+  margin-top: 68px;
+}
+.modal_contact input{
+	width: 423px;
+	font-size: 21px;
+}
+.input-mask{
+	margin-top: 40px !important;
+}
+.modal_contact input[name=name]{
+	margin-top: 30px !important;
+}
+.not-mobile{
+  display: none;
+}
+.top-header ul {
+  float: none;
+}
+.top-header {
+  padding-left: 42px;
+  height: 40px;
+  margin-top: -7px;
+}
+.top-header li a {
+  font-size: 22px;
+  height: 55px;
+  line-height: 55px;
+
+}
+.right-call{
+  margin-top: -114px;
+}
+.LED .fast-walks-deck p{line-height:1.4;width:438px !important;}
+.LED .fast-walks-deck {
+  float: right;
+  width: 584px;
+}
+.LED .h1{
+  font-weight: lighter;
+}
+.LED p {
+  margin: 0;
+}
+.LED .fast-wrap {
+  padding-top: 32px;
+}
+.sam-seg {
+  width: 440px;
+  height: 679px;
+  background: url('../img/sam-seg.png') no-repeat center center;
+  background-size: auto auto;
+  position: absolute;
+  bottom: 22px;
+  left: -10px;
+  background-size: 100%;
+}
+.usb .fast-walks-deck {
+  width: 500px;
+  padding-top: 126px;
+}
+b  .fast-walks-deck p {
+  width: 430px;
+}
+.prob{
+  height: 666px;
+  background: url(../img/prob-mob.png) no-repeat center center;
+  background-size: 1300px 100%;
+}
+.prob .fast-wrap {
+  padding-top: 107px;
+}
+.prob .h1{
+  width: 430px;
+}
+.prob .fast-walks-deck p{
+  width: 480px;
+}
+.portativ{
+  height: 995px;
+  padding: 69px 0 0 0;
+}
+.portativ .h1{
+  margin-left: 0;
+}
+.portativ p{
+  margin: 0 auto;
+  width: 780px;
+}
+.century .h1{
+  margin-bottom: 15px;
+}
+.introduction-desk {
+  padding-top: 41px;
+}
+.silence .h1{
+  width: 300px;
+}
+.silence p{
+  width: 420px;
+}
+.silence{
+  padding-top: 105px;
+  background: url(../img/silence-mob.png) no-repeat center center;
+  -webkit-background-size: 100%;
+  background-size: 100%;
+  padding-left: 18px;
+}
+.class-product{
+  padding-top: 54px;
+}
+.pult-bg{
+  position: absolute;
+  right: -832px;
+  top: -314px;
+  height: 715px;
+  width: 1900px;
+  z-index: -1;
+  background-size: 720px 611px;
+}
+.pult{
+  padding-left: 20px;
+}
+.pack-color .zach-bg{
+  position: absolute;
+  right: -238px;
+  top: 5px;
+  width: 100%;
+  height: 120%;
+  z-index: -1;
+  background-size: 730px 516px;
+}
+.usb .fast-walks-deck .h1{
+  width: 440px !important;
+  padding-top: 55px;
+    font-weight: lighter;
+
+}
+.zach .test-drive-free .h1{
+  font-weight: lighter;
+}
+.drugoe .h1{
+  font-weight: lighter;
+}
+.h1{
+  font-weight: lighter !important;
+}
+.top-header li {
+    padding-left: 33px;
+}
+.top-header li:first-child {
+    padding-left: 21px;
+}
+#times .modal_content_box p {
+    width: auto;
+    }
+     #times  .modal_contact input{
+      margin-top: 0px !important;
+ }
+
+ .time-pop-up .modal_contact .sends{
+      margin-top: 15px;
+ }
+ .home .home-border {
+    border:none;
+    width: auto;
+    height: 142px;
+    margin-left: 0;
+    padding-left: 0;
+
+}
+.home .home-left {
+    width:auto;
+}
+.home .home-right {
+    float: none;
+    width: 330px;
+    margin-right: 0;
+}
+.home .home-right img{
+    float: right;
+    width: 200px;
+    margin-right: -23px;
+    margin-top: -17px;
+}
+
+
+.home .protect-text {
+    color: #009eff;
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+   padding-left: 0;
+width: 170px;
+padding-top: 245px;
+font-size: 17px;
+margin-left: 0px;
+}
+.introduction .download-link-center{
+ bottom: -34px;
+ left: 22%;
+}
+.introduction  .download-link{
+    width: auto;
+}
+.introduction .img-pdf {
+    width: 43px;
+    height: 46px;
+}
+
+.introduction  .download-link span {
+    font-size: 22px;
+}
+.introduction-desk{
+    width: auto;
+}
+.mob-desk-right{
+    width: 552px;
+    float: right;
+}
+.introduction .home-border {
+ float: left;
+ width: 100%;
+   width: 762px;
+  height: 187px;
+      margin-top: 52px;
+      margin-left: 33px;
+      margin-bottom: 12px;
+}
+.introduction .home-left {
+    width:auto;
+}
+.introduction .home-right {
+    width: 330px;
+    margin-right: 0;
+}
+.introduction .home-right img{
+    float: right;
+    margin-right: 52px;
+width: 300px;
+margin-top: -8px;
+
+}
+
+
+.introduction .protect-text {
+    color: #009eff;
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+    padding-left: 0;
+margin-left: 43px;
+width: 225px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.download .download-border{
+      width: 922px;
+  height: 328px;
+}
+.img-instruct {
+    width: 370px;
+    }
+    .img-instruct img {
+    left: -115px;
+}
+.name-product{
+  font-weight: lighter;
+}
+}

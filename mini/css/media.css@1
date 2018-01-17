@@ -1,0 +1,218 @@
+@media (max-width:1500px){.security-bg2{display:none;}
+}
+@media (max-width:1000px){.top-header ul{margin-top:10px;}
+.introduction .h1{font-weight:lighter;}
+.media-mobile{width:100px;height:100px;}
+.home{height:725px;}
+.header{height:100px;}
+.get_call{width:247px;height:55px;line-height:55px;}
+.xiaomi{margin-left:59px;margin-top:22px;float:none;width:64px;height:64px;}
+.phone{margin-right:0;text-decoration:none;font-size:29px;font-family:"Proxima B";display:block;height:80px;line-height:80px;margin-bottom:-7px;}
+.right-call{padding-right:25px;}
+.get_call{font-size:22px;}
+.LED ul div{width:118px;height:100px;margin-bottom:15px;}
+.LED ul{width:725px;}
+.LED ul li{width:118px;text-align:center;margin-right:84px;}
+section{min-width:1000px;overflow:hidden;}
+.drugoe{padding-bottom:20px;}
+.home{position:relative;padding-bottom:200px;}
+.introduction{margin-top:0;height: 2453px;}
+.wrapper-header{max-width:1000px;min-width:1000px;}
+.padding{padding-left:40px;padding-right:40px;}
+.bot-header{padding:0 0 0 56px;}
+.home-scuter{width:550px;height:911px;right:25px;}
+.price{font-size:63px;}
+.home-buy{font-size:34px;width:328px;height:82px;font-family:"Proxima B";line-height:82px;}
+.img-scuter-color{width:407px;position:absolute;top:409px;left:13px;height:527px;}
+.scuter-color .color{width:50px;height:50px;margin-right:20px;}
+.scuter-color span{line-height:50px;}
+.media_width_1000{display:block;}
+.manual{width:935px;margin:0 auto;margin-top:60px;}
+.fast-walks-deck{width:527px;}
+.fast-walks .fast-walks-deck{width:514px;}
+.fast-walks-deck p{width:460px;}
+.fast-walks{height:506px;}
+.fast-wrap{padding-top:65px;}
+.fast-walks-deck .h1{margin-top:0;}
+.media-wrapper{left:-75px;background-size:1320px 100%;}
+.test .send{margin-top:59px;}
+.test{background:url(../img/test-bg-mobile.png) no-repeat center center;}
+.battary .h1{margin-top:0;margin-left:30px;width:560px;}
+.battary p{margin-left:30px;}
+.battary-bg{right:-102px;top:-169px;height:573px;width:102%;}
+.zach .test-drive-free{padding:0 40px 20px 35px;width:850px;height:450px;color:#323940;margin-left:50px;}
+.zach-bg{right:-265px;}
+.zach .send{margin-top:39px;}
+.fast-walks-deck .h1{font-size:50px !important;}
+.disk .fast-walks-deck .h1{font-size:45px !important;}
+.disk li{margin-right:12px;}
+.disk .fast-walks-deck{width:630px;padding-left:66px;}
+.disk{height:670px;}
+.blackTeh{padding:0px 0 5px 0;}
+.garanty{padding-top:189px;}
+.garanty-bg{right:-129px;top:-203px;width:63%;height:129%;background-size:100%;}
+.security{background:#000;}
+.security .test-drive-free{margin-right:40px;}
+.security-bg1{left:-62%;}
+.mobilnost-bg{left:-40px;}
+.drugoe .container{width: 950px;margin:0 auto;margin-top:0px;margin-top:130px;}
+.garanty .fast-walks-deck{width:525px;}
+.video-bg{height:99%;}
+.pause-bg{height:99%;}
+.disk .fast-walks-deck p{width:510px;}
+.garanty .h1{margin-left:0;font-weight:lighter;}
+.garanty p{margin-left:0;}
+.garanty{height:580px;}
+.light-size{width:100px;height:100px;}
+.modal_content_box p{width:600px;margin:0 auto;font-size:21px;}
+.modal_content_box .h1{font-size:50px !important;}
+.modal_contact .sends{width:423px;height:103px;font-size:29px;margin-top:68px;}
+.modal_contact input{width:423px;font-size:21px;}
+.input-mask{margin-top:25px !important;}
+.modal_contact input[name=name]{margin-top:30px !important;}
+.not-mobile{display:none;}
+.top-header ul{float:none;}
+.top-header{padding-left:42px;height:40px;margin-top:-7px;}
+.top-header li a{font-size:22px;height:55px;line-height:55px;}
+.right-call{margin-top:-114px;}
+.zach .sends{margin-top:45px;}
+.disk-bg{left:-80px;background-size:2200px 100%;}
+.portativ{height:675px;background:url('../img/portativ-mob.png');background-size:1000px 100%;}
+.portativ .h1{width:auto;padding-top:54px;margin-left:289px;}
+.portativ p{margin-left:289px;}
+.img-scuter-color-black{background-position:90.1% 6px;}
+.fast-walks .fast-wrap{padding-top:63px;}
+.media-wrapper{height:108%;left:-9px;background:url('../img/walk-mob.png') no-repeat center center;background-size:auto auto;background-size:985px 606px;}
+.fast-walks .fast-walks-deck .h1{font-weight:lighter;}
+.settings_span span{width:110px;display:block;margin-left:-5px;}
+.zach .test-drive-free .h1{font-weight:lighter;}
+.donwload .zach-bg{right:32px;top:92px;}
+.donwload{height:565px;}
+.security .h1{font-weight:lighter;}
+.staty{margin-top:36px;}
+.h1{
+  font-weight: lighter !important;
+}
+.top-header li {
+    padding-left: 33px;
+}
+.top-header li:first-child {
+    padding-left: 21px;
+}
+#times .modal_content_box p {
+    width: auto;
+    }
+ #times  .modal_contact input{
+ 	    margin-top: 0px !important;
+ }
+
+ .time-pop-up .modal_contact .sends{
+ 	    margin-top: 15px;
+ } .home .home-border {
+    border:none;
+    width: auto;
+    height: 142px;
+    margin-left: 0;
+    padding-left: 0;
+
+}
+.home .home-left {
+    width:auto;
+}
+.home .home-right {
+    float: none;
+    width: 330px;
+    margin-right: 0;
+}
+.home .home-right img{
+    float: right;
+    width: 200px;
+    margin-right: -53px;
+    margin-top: -17px;
+}
+
+
+.home .protect-text {
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+    padding-left:10px;
+    margin-left: 0;
+    width: 165px;
+    padding-top: 245px;
+    font-size: 17px;
+}
+.introduction .download-link-center{
+ bottom: -34px;
+ left: 22%;
+}
+.introduction  .download-link{
+    width: auto;
+}
+.introduction .img-pdf {
+    width: 43px;
+    height: 46px;
+}
+
+.introduction  .download-link span {
+    font-size: 22px;
+}
+.introduction-desk{
+    width: auto;
+}
+.mob-desk-right{
+    width: 552px;
+    float: right;
+}
+.introduction .home-border {
+ float: left;
+ width: 100%;
+   width: 762px;
+  height: 187px;
+      margin-top: 52px;
+      margin-left: 33px;
+      margin-bottom: 12px;
+}
+.introduction .home-left {
+    width:auto;
+}
+.introduction .home-right {
+    width: 330px;
+    margin-right: 0;
+}
+.introduction .home-right img{
+    float: right;
+    margin-right: 52px;
+width: 300px;
+margin-top: -8px;
+
+}
+
+
+.introduction .protect-text {
+    font-family: "Proxima B";
+    background: white;
+    margin-top: 10px;
+    display: block;
+    padding-left: 0;
+margin-left: 43px;
+width: 225px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.download .download-border{
+      width: 922px;
+  height: 328px;
+}
+.img-instruct {
+    width: 370px;
+    }
+    .img-instruct img {
+    left: -115px;
+}
+h1{
+    font-weight: lighter;
+}
+}

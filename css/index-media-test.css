@@ -1,0 +1,159 @@
+@media (max-width:1000px){
+	.row{
+		float: none;
+		width: 100%;
+		border-top:none;
+		text-align: center;
+		height: 420px;
+	}
+	.mi .row{
+		border-top:none	;	
+		float:none;
+		width: 100%;
+		height: 420px;
+	}
+	.column {
+		float: none;
+		width: 100%;
+	}
+	.wrap-product{
+		padding: 0;
+		padding-top: 93px;
+	}
+	.logo div.logo-nine{
+		margin: 0 auto;
+		width: 100%; 
+		text-align: center;
+		margin-top: 29px;
+		height: 100px;
+	}
+	.logo div.logo-mi{
+		margin: 0 auto;
+		width: 100% ;
+		text-align: center;
+		margin-top: 39px;
+		height: 100px;
+	}
+	.logo img{
+		height: 100%;
+	}
+	.logo {
+		height: 160px;
+	}
+	.container{
+		padding: 0;
+	}
+	.mi {
+		margin-left:0;
+	}
+	.view{
+		margin: 0 auto;
+		border-color: rgba(255, 255, 255,0.5);
+		color:rgb(255,255,255,0.5);
+		width: 254px;
+  		height: 76px;
+		line-height: 76px;
+		font-size: 25px;
+	}
+	.class-product{
+		font-size: 30px;
+		color:rgb(255,255,255,0.5);
+	}
+	.name-product{
+		font-size: 108px;
+		margin-bottom: 15px;
+		margin-top: 4px;
+	}
+	.main{
+		max-width: 100%;
+	}
+	.wrap-product{
+		background: #343b43;
+		width: 100%;
+		height: 100%;
+		background: url(../img/bg-mobile.png) no-repeat;
+		background-size: 100% 400%;
+	}
+	.mi .row .wrap-product{
+		background-position: 0 100%;
+	}
+	.e .product {
+		left:670px;
+		width: 283px;
+		height: 450px;
+		bottom: -15.5%;
+	}
+	.minipro .product {
+		width: 394px;
+height: 430px;
+bottom: -11%;
+left: -1%;
+background-size: 400% 139%;
+background-position: 30% -152px;
+	}
+	.one-hor .row .product {
+width: 443px;
+height: 407px;
+bottom: -62px;
+right: -61px;
+background-size: 400% 166%;
+background-position: 64% -244px;
+	}
+	.mi .row .product {
+		left:570px;
+		width: 420px;
+		height: 670px;
+		bottom: -18%;
+	}
+		.mi .row .product.mini {
+	left: 644px;
+width: 337px;
+height: 556px;
+bottom: -18%;
+}
+	footer p{
+		margin-top: 0;
+	}
+	.minipro, .mijia {
+    float: none;
+}
+.one-hor{
+	width: 100%;
+	height: 420px;
+}
+.vert{
+	margin-bottom: 0;
+}
+.minipro .wrap-product {
+    background-position: 0 33%;
+}
+.one-hor .wrap-product{
+	background: url(../img/bg-mobile.png) no-repeat;
+	background-position: 0 66.1%;
+}
+.mijia .row .product{
+background: url('../img/home/e_m_mob.png') no-repeat;
+left: -19px;
+bottom: -48%;
+}
+.q .row .product{
+background: url('../img/home/e_m_mob.png') no-repeat;
+background-position: 100%;
+width: 470px;
+height: 466px;
+background-size: 200% 126%;
+right: -75px;
+left: auto;
+bottom: -78px;
+}
+.q  .wrap-product{
+	background: url('../img/home/qu.png') no-repeat;
+	-webkit-background-size: 100%;
+	background-size: 103%;
+}
+.mijia .wrap-product{
+	background: url('../img/home/m.png') no-repeat;
+	-webkit-background-size: 100%;
+	background-size: 103%;
+	}
+}

@@ -1,0 +1,426 @@
+@import url('font.css');
+html,body{
+	font-family: "Proxima R";
+	color: #323940;
+	overflow-x: hidden;
+	position: relative;
+	min-width: 1000px;
+}
+.main{
+	position: relative;
+}
+.clear:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.container{
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	position: relative;
+	padding: 0px 42px 0 40px;
+	max-width: 1300px;
+}
+.column{
+	width: 590px;
+	float: left;
+}
+.row{
+	float: left;
+	width: 275px;
+	height: 380px;
+	color:white;
+	position: relative;	
+	background: #343b43;
+	border-top:7px solid #009eff;
+	display: block;
+}
+.mi{
+	float: right;
+}
+.mi .row{
+	background: #343b43;
+	float: left;
+	width: 275px;
+	height: 380px;
+	color:white;
+	position: relative;	
+	border-top:7px solid #ff6700
+	
+}
+
+.link-row:hover .row{
+	background: #009eff;
+	cursor: pointer;
+}
+.mi .link-row:hover .row{
+	background: #ff6700;
+	cursor: pointer;
+}
+
+.wrap-product{
+	background: #343b43;
+	padding: 11% 0 0 12%;
+	width: 100%;
+	height: 100%;
+	background: url(../img/bg.png) no-repeat;
+	background-size: 409% 100%;
+}
+.wrap-product > *{
+	position: relative;
+	z-index: 2;
+}
+.link-row{
+	display: block;
+	text-decoration: none;
+	color: inherit;
+}
+.link-row > *{
+	text-decoration: none;
+}
+.mi .row .wrap-product{
+	background-position: 100%;
+}
+.logo{
+	height: 135px;
+	text-align: left;
+	overflow: hidden;
+}
+.logo div{
+	float: left;
+	height: 120px;
+	width: 50%;
+}
+
+.logo div.logo-mi{
+	width: 75px;
+	height: 75px;
+	margin: 0 auto;
+	margin-top: 23px;
+	float: none;
+}
+
+.logo div.logo-nine{
+	width: 230px;
+	height: 75px;
+	margin: 0 auto;
+	margin-top: 23px;
+	float: none;
+}
+.class-product{
+	font-family:"Proxima R";
+	font-size: 20px;
+	display: block;
+}
+.name-product{
+	display: block;
+	font-family:"Proxima B";
+	font-size: 4vw;
+	text-transform: uppercase;
+	line-height: 1;
+	margin-top: 13px;
+	margin-bottom: 3%;
+}
+.view{
+	font-family:"Proxima B";
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+	line-height:40px;
+	border-width: 2px;
+	border-color: rgb(255, 255, 255);
+	border-style: solid;
+	width: 147px;
+	height: 42px; 
+	text-decoration: none;
+	color:white;
+}
+.row:hover .view{
+	color:#009eff;
+	background: white
+}
+.mi .row:hover .view{
+	color:#fe6e0c;
+	cursor: pointer;
+}
+.product{
+	width: 100%;
+	height: 100%;
+	background: url(../img/index-product.png) no-repeat;
+	-webkit-background-size: 500%;
+	background-size: 430% 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 1;
+}
+
+.mi .row .product {
+	width: 91%;
+	height: 103%;
+	position: absolute;
+	bottom: -15%;
+	left: 5%;
+	background-position: 100%;
+}
+footer{
+	text-align: center;
+	font-size: 15px;
+	font-family: "Proxima B";
+	padding-top: 47px;
+	opacity: 0.4; 
+
+}
+.link{
+	display: block;
+	text-decoration: none;
+	color:white;
+}
+/* width 1300 */
+.one-hor {
+	width: 590px;
+	height: 200px;
+}
+.one-hor .row{
+	float: none;
+	width: 100%;
+	height: 100%;
+}
+.one-hor .wrap-product{
+	background: url('../img/home/one.png') no-repeat center center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+.wrap-product{
+	padding: 29px 0 0 25px;
+}
+.class-product{
+	font-size: 11px;
+}
+.name-product{
+	font-size: 42px;
+}
+.one-hor .row .product{
+	width: 193px;
+	height: 200px;
+	position: absolute;
+	bottom: -27%;
+	right: 58px;
+	background-position: 65% bottom;
+	left: auto;
+	background-size: 550% 188%;
+}
+.view{
+	width: 77px;
+	height: 25px;
+	font-size: 8px;
+	line-height: 23px;
+}
+/* e + minipro*/
+.vert{
+	margin-bottom: 35px;
+}
+.minipro,.mijia{
+	float: right;
+}
+.minipro .wrap-product{
+	background-position: 34%;
+}
+.mijia .wrap-product{
+	background: url(../img/home/mj.png) no-repeat center center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+
+.minipro .product{
+	background-position: 30%;
+	width: 221px;
+	height: 359px;
+	bottom: -13%;
+	left: 12%;
+}
+.e .product{
+	width: 216px;
+	height: 365px;
+	background: url(../img/index-product.png) no-repeat;
+	background-size: auto auto;
+	-webkit-background-size: 500%;
+	background-size: 430% 100%;
+	position: absolute;
+	bottom: -46px;
+	left: 46px;
+	z-index: 1;
+}
+.q .wrap-product{
+	background: url(../img/home/q.png) no-repeat center center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+.mijia .row .product{
+	width: 260px;
+	height: 365px;
+	background: url(../img/home/e_m.png) no-repeat;
+	position: absolute;
+	bottom: -72px;
+	right: -50px;
+	z-index: 1;
+	background-size: 200%;
+	left: auto;
+}
+.q .row .product{
+	width: 260px;
+	height: 365px;
+	background: url(../img/home/e_m.png) no-repeat;
+	position: absolute;
+	bottom: -76px;
+	right: 22px;
+	z-index: 1;
+	background-size: 200%;
+	background-position: 100%;
+
+}
+.class-product{
+		font-size: 18px;
+		font-family: 'Proxima B';
+		margin-bottom: 9px;
+	}
+	.name-product{
+		font-size: 45px;
+		margin-top: 6px;
+		margin-bottom: 2%;
+	}
+.view{
+		  width: 123px;
+ 		 height: 35px;
+		font-size: 12px;
+		line-height: 42px;
+		margin-top: 12px;
+		line-height: 32px;
+	}
+/* выше 1600*/
+@media (min-width:1600px){
+	.column{
+		width: 790px;
+		float: left;
+	}
+	.vert{
+		margin-bottom: 50px;
+	}
+	.row{
+		float: left;
+		width: 370px;
+		height: 510px;
+		color:white;
+		position: relative;	
+		background: #343b43;
+		border-top:7px solid #009eff;
+		display: block;
+	}
+	.mi{
+		float: right;
+	}
+	.mi .row{
+		background: #343b43;
+		float: left;
+		width: 370px;
+		height: 510px;
+		color:white;
+		position: relative;	
+		border-top:7px solid #ff6700
+
+	}
+	.container{
+		list-style: none;
+		padding: 0;
+		margin: 0 auto;
+		position: relative;
+		padding:0;
+		max-width: 1630px;
+	}
+	.one-hor{
+		width: 100%;
+		height: 265px;
+	}
+	.q .row{
+		width:100%;
+		height: 265px;
+	}
+	.class-product{
+		font-size: 20px;
+		font-family: 'Proxima B';
+		margin-bottom: 9px;
+	}
+	.name-product{
+		font-size: 56px;
+		margin-top: 6px;
+		margin-bottom: 2%;
+	}
+	.wrap-product {
+    padding: 34px 0 0 40px;
+}
+	.view{
+		  width: 143px;
+ 		 height: 42px;
+		font-size: 15px;
+		line-height: 42px;
+		margin-top: 12px;
+	}
+	.e .product {
+		width: 287px;
+		height: 473px;
+		background: url(../img/index-product.png) no-repeat;
+		background-size: auto auto;
+		background-size: auto auto;
+		-webkit-background-size: 500%;
+		background-size: 430% 100%;
+		position: absolute;
+		bottom: -60px;
+		left: 46px;
+		z-index: 1;
+	}
+	.minipro .product {
+		background-position: 30%;
+		width: 297px;
+		height: 473px;
+		bottom: -12%;
+		left: 13%;
+	}
+	.mi .row .product {
+		width: 289px;
+		height: 93%;
+		position: absolute;
+		bottom: -63px;
+		left: 13%;
+	}
+	.mijia .row .product{
+		background-size: 200% 120%;
+		width: 374px;
+		height: 86%;
+		background-position: -10px;
+		bottom: -40px;
+		left: 22%;
+	}
+	.one-hor .row .product {
+		width: 250px;
+		height: 285px;
+		position: absolute;
+		bottom: -28%;
+		right: 77px;
+		background-position: 65% bottom;
+		left: auto;
+		background-size: 550% 188%;
+	}
+	.q .row .product{
+		width: 347px;
+		height: 350px;
+		background: url(../img/home/e_m.png) no-repeat;
+		position: absolute;
+		bottom: -60px;
+		right: 22px;
+		z-index: 1;
+		background-size: 200%;
+		background-position: 100% -81px;
+	}
+}

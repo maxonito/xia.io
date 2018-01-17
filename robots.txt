@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: *?*
+Disallow: /index*
+Allow: *.jpg*
+Allow: *.jpeg*
+Allow: *.doc*
+Allow: *.xls*
+Allow: *.png*
+Allow: *.gif*
+Allow: *.css*
+Allow: *.js*
+Allow: *.pdf*
+Host: xiaomininebot.com
+#Sitemap: http://xiaomininebot.com/sitemap.xml
